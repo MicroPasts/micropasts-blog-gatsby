@@ -1,0 +1,64 @@
+.stretched-link__blog_post {
+    color: #fff;
+}
+.breadcrumb__list {
+    font-size: 1.2rem;
+}
+body {
+    font-family: "public-sans", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    background: white;
+}
+.post-body h2, h3, h4 {
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+.navbar-brand a, .navbar-brand a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+.navbar-brand a:hover {
+    color: lightslategray;
+}
+
+
+blockquote {
+    font-family: "Sorts Mill Goudy", serif;
+    color: cadetblue;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-style: italic;
+}
+header {
+    background: "rebeccapurple";
+    marginBottom: "2rem";
+}
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    color: #120d1a;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+.bg-pastel {
+    background: #9cc2cb24;
+    padding: 1rem;
+}
+.carousel-caption h3 {
+    color: white;
+    background: black;
+
+    padding: 10px;
+}
+.post-body li {
+    list-style: square;
+}
+nav.pagination {
+    display: flex;
+    justify-content: space-between;
+}
+.fullscreen {
+    height: 100vh; width: 100vw; object-fit: cover; object-position: center; }
