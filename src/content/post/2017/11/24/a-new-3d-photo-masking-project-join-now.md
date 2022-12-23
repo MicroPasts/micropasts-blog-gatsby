@@ -5,6 +5,7 @@ status: publish
 permalink: /2017/11/24/a-new-3d-photo-masking-project-join-now
 author: 
     - Kei
+featuredImage: ../../../../uploads/2017/11/IMG_2943.jpg
 type: post
 id: 1559
 ---

@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/12/18/a-hollow-human-head-of-bronze
 author: 
     - Jennifer Wexler
-excerpt: ''
+featuredImage: ../../../../uploads/2015/11/EthiopianHead-copy.png
 type: post
 id: 1141
 category:

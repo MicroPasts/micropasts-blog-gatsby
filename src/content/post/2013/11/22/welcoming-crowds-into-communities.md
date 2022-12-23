@@ -1,9 +1,10 @@
 ---
-title: 'Welcoming &#8216;crowds&#8217; into communities'
+title: 'Welcoming "crowds" into communities'
 date: '2013-11-22T13:05:44+00:00'
 status: publish
 permalink: /2013/11/22/welcoming-crowds-into-communities
 excerpt: ''
+featuredImage: ../../../../uploads/2013/11/IMG20220621042742_01.jpg
 type: post
 id: 253
 author:

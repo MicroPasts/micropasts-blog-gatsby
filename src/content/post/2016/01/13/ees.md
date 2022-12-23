@@ -5,7 +5,7 @@ status: publish
 permalink: /2016/01/13/ees
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2016/01/Fig-1-TA.NEG_.30-31.0036.jpg
 type: post
 id: 1351
 category:

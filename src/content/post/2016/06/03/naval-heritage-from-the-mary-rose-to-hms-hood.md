@@ -6,7 +6,7 @@ permalink: /2016/06/03/naval-heritage-from-the-mary-rose-to-hms-hood
 author: 
     - Alastair Miles
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2016/06/Screen-Shot-2016-06-03-at-12.37.41.png
 type: post
 id: 1397
 category:

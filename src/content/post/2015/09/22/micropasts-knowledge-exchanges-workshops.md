@@ -1,8 +1,9 @@
 ---
-title: 'MicroPasts Knowledge Exchanges Workshops'
+title: 'MicroPasts Knowledge Exchange Workshops'
 date: '2015-09-22T15:43:41+01:00'
 status: publish
 permalink: /2015/09/22/micropasts-knowledge-exchanges-workshops
+featuredImage: ../../../../uploads/2015/09/Screenshot 2022-12-22 at 23.13.21.png
 author: 
     - Chiara Bonacchi
 excerpt: ''

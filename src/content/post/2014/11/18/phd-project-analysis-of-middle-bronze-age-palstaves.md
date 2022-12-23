@@ -1,8 +1,9 @@
 ---
-title: 'PhD project &#8211; Analysis of Middle Bronze Age Palstaves'
+title: 'PhD project - Analysis of Middle Bronze Age Palstaves'
 date: '2014-11-18T15:24:26+00:00'
 status: publish
 permalink: /2014/11/18/phd-project-analysis-of-middle-bronze-age-palstaves
+featuredImage: ../../../../uploads/2014/11/palstave2.png
 author: 
     - Robert Kaleta
 excerpt: ''

@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/05/19/the-micropasts-conference-on-youtube
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2015/05/16793372877_15ec18896b_c.jpg
 type: post
 id: 887
 category:

@@ -30,6 +30,7 @@ tag:
     - 'University College London'
     - 'Veronica Seton-Willliams'
     - Writing
+featuredImage: ../../../../uploads/2014/06/img0501.jpg
 ---
 **How can it be useful?**
 

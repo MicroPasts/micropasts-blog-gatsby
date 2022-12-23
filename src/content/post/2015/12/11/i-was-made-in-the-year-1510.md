@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/12/11/i-was-made-in-the-year-1510
 author: 
     - The Mary Rose Trust
-excerpt: ''
+featuredImage: ../../../../uploads/2015/12/Bell1.jpg
 type: post
 id: 1194
 category:

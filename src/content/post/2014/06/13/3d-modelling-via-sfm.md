@@ -14,6 +14,7 @@ tag:
     - 'Computer vision'
     - 'Shape analysis'
     - 'Susie Green'
+featuredImage: ../../../../uploads/2014/06/axe2.png
 ---
 **What is it and how can it be used?**
 

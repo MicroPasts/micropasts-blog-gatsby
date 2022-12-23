@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/05/29/the-mary-rose-micropasts-collaboration-week-1
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2015/05/Bone-angel-81A2851-©-Mary-Rose-Trust.jpg
 type: post
 id: 892
 category:

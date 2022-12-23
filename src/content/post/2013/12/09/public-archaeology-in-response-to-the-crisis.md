@@ -3,6 +3,7 @@ title: 'Public Archaeology in response to the crisis'
 date: 2013-12-09T14:55:45+00:00
 status: publish
 permalink: /2013/12/09/public-archaeology-in-response-to-the-crisis
+featuredImage: ../../../../uploads/2013/12/unnamed.jpg
 author: 
     - Chiara Bonnachi
 excerpt: ''
@@ -20,8 +21,7 @@ tag:
 ---
 Hello,
 
-![Temple of Concord, Valley of the temples, Agrigento
-](../../../../uploads/2013/12/unnamed.jpg)
+![Temple of Concord, Valley of the temples, Agrigento](../../../../uploads/2013/12/unnamed.jpg)
 
 I am just back from *[Public Archaeology in a time of crisis](http://www.parcodeitempli.net/pages/giornate-gregoriane-vii-edizione "Public Archaeology in a time of crisis")* a brilliant conference organised at the Valley of the Temples, in Agrigento (Italy), where I was invited as speaker along with other Italian, Greek, Spanish and UK delegates.
 

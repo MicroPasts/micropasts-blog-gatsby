@@ -39,13 +39,22 @@ export const pageQuery = graphql`
             edges {
                 node {
                     id
-                    excerpt(format: PLAIN, pruneLength: 200)
-                    
+                    excerpt(format: PLAIN, pruneLength: 400)
                     frontmatter {
                         date(formatString: "MMMM DD, YYYY")
                         permalink
                         title
                         author
+                        featuredImage {
+                            childImageSharp {
+                                gatsbyImageData(
+                                    placeholder: BLURRED
+                                    height: 250
+                                    formats: [AUTO, WEBP]
+                                    width: 400
+                                )
+                            }
+                        }
                     }
                 }
             }

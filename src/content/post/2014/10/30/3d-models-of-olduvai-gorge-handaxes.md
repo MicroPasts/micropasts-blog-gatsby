@@ -5,7 +5,7 @@ status: publish
 permalink: /2014/10/30/3d-models-of-olduvai-gorge-handaxes
 author: 
     - Ignacio de la Torre
-excerpt: ''
+featuredImage: ../../../../uploads/2014/10/EFHR-LO-2.jpg
 type: post
 id: 770
 category:

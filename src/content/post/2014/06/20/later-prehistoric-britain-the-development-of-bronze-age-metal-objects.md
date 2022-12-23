@@ -3,7 +3,7 @@ title: 'Later Prehistoric Britain: the Development of Bronze Age Metal Objects'
 date: '2014-06-20T11:07:25+01:00'
 status: publish
 permalink: /2014/06/20/later-prehistoric-britain-the-development-of-bronze-age-metal-objects
-excerpt: ''
+featuredImage: ../../../../uploads/2014/06/worsaee_drawing_spearheads.jpg
 type: post
 id: 664
 author:

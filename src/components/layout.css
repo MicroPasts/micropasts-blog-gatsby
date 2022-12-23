@@ -21,8 +21,8 @@
   --space-4: 24px;
   --space-5: 32px;
   --space-6: 64px;
-  --size-content: 74rem;
-  --size-gutter: var(--space-5);
+  --size-content: 84rem;
+  --size-gutter: var(--space-4);
   --size-gap: var(--space-6);
   --color-footer-bg: #2c1f6d;
 }

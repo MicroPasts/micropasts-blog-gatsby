@@ -3,6 +3,7 @@ title: 'Initial reflections on the MicroPasts Knowledge Exchange Workshop'
 date: '2015-11-12T14:48:46+00:00'
 status: publish
 permalink: /2015/11/12/initial-reflections-on-the-micropasts-knowledge-exchange-workshop
+featuredImage: ../../../../uploads/2015/11/FMLr6-6XMAA2rQH.jpg
 author: 
     - James Doeser
 excerpt: ''

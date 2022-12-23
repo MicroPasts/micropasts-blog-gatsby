@@ -3,7 +3,7 @@ title: Crowd-sourcing
 date: '2014-06-05T11:14:02+01:00'
 status: publish
 permalink: /2014/06/05/crowd-sourcing
-excerpt: ''
+featuredImage: ../../../../uploads/2014/06/Screen-Shot-2014-06-05-at-11.45.27.png
 type: post
 id: 620
 author:

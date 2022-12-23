@@ -8,6 +8,7 @@ type: post
 id: 454 
 author:
     - Jennifer Wexler
+featuredImage: ../../../../uploads/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute.png
 tag:
     - Benin
     - 'Bronze Age collection curator'

@@ -5,6 +5,7 @@ status: publish
 permalink: /2014/06/23/shabtis-and-the-ancient-egyptian-afterlife
 excerpt: ''
 type: post
+featuredImage: ../../../../uploads/2014/07/Seti_I_Shabti.jpg
 id: 686
 author:
     - Adi Keinan-Schoonbaert

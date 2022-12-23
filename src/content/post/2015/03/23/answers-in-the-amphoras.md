@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/03/23/answers-in-the-amphoras
 author: 
     - Andy Bevan
-excerpt: ''
+featuredImage: ../../../../uploads/2015/03/amphtypes.jpg
 type: post
 id: 879
 category:

@@ -3,7 +3,7 @@ title: 'The British Museum Index'
 date: '2014-06-05T10:32:08+01:00'
 status: publish
 permalink: /2014/06/05/the-british-museum-index
-excerpt: ''
+featuredImage: ../../../../uploads/2014/06/BM-Card-Index.jpeg 
 type: post
 id: 611
 author:

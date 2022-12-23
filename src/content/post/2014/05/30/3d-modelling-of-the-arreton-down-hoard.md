@@ -3,7 +3,7 @@ title: '3D Modelling of the Arreton Down Hoard'
 date: '2014-05-30T16:22:57+01:00'
 status: publish
 permalink: /2014/05/30/3d-modelling-of-the-arreton-down-hoard
-excerpt: ''
+featuredImage: ../../../../uploads/2014/05/3D-Scanning-Franks-2.jpg
 type: post
 id: 541
 author:
@@ -28,7 +28,7 @@ A hoard is an archaeological terms for two or more objects, normally of metal, d
 
 This particular hoard was found on Arreton Down on the Isle of Wight sometime before 1735, and we think that it was associated with a series of aligned pits. It constitutes a major group of Early Bronze Age spearheads and axes (as well as at least one dagger) that was probably placed in the ground around 1700-1500 BC.
 
-![Antiquarian drawing of the Arreton Down Hoard, from the The Antiquaries Journal XXVII (1947)](../../../../uploads/2014/05/Arreton-Hoard-Antiq.-J.-XXVII-1947.jpg)
+![Antiquarian drawing of the Arreton Down Hoard, from the The Antiquaries Journal XXVII (1947)](c)
 
 The Arreton Down hoard represents the final metalwork traditions of Early Bronze Age (EBA) in southern England, c. 1700-1500 BC (Britton 1963, 284-97; Burgess &amp; Cowen 1972; Needham 1986). The hoard gave its name to the ‘Arreton phase’ of Early Bronze Age metalwork. This arguably represents the first large scale and frequent burying of metalwork in prehistory, a practice that would continue for many centuries (and millennia) to come.
 

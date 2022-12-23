@@ -3,7 +3,7 @@ title: 'In the Lens: George and Agnes Horsfield’s Photographs'
 date: '2014-09-08T12:03:16+01:00'
 status: publish
 permalink: /2014/09/08/in-the-lens-george-and-agnes-horsfields-photographs
-excerpt: ''
+featuredImage: ../../../../uploads/2014/09/Fig-1P2008-360-AC-at-Damieh-full-pic.jpg
 type: post
 id: 721
 author:

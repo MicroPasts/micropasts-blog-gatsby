@@ -5,7 +5,7 @@ status: publish
 permalink: /2016/06/14/morte-e-rinascita-nel-nuovo-regno
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2016/06/boxME2-e1462396809335.jpg
 type: post
 id: 1366
 category:

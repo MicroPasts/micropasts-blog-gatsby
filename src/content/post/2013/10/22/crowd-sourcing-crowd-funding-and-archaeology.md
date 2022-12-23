@@ -4,6 +4,7 @@ date: '2013-10-22T15:55:55+01:00'
 status: publish
 permalink: /2013/10/22/crowd-sourcing-crowd-funding-and-archaeology
 excerpt: ''
+featuredImage: ../../../../uploads/2013/10/MP_SOCIALMEDIA.jpg
 author: 
  - Chiara Bonnachi
  - Daniel Pett

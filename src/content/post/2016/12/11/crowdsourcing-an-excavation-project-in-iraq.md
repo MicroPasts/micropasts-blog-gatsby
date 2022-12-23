@@ -5,7 +5,7 @@ status: publish
 permalink: /2016/12/11/crowdsourcing-an-excavation-project-in-iraq
 author: 
     - MicroPasts team
-excerpt: ''
+featuredImage: ../../../../uploads/2016/12/Sofia-Cafe-1-September-2016.jpg
 type: post
 id: 1519
 category:

@@ -5,7 +5,7 @@ status: private
 permalink: /2017/12/12/the-data-science-behind-digital-heritage
 author: 
     - Tullia Fraser
-excerpt: ''
+featuredImage: ../../../../uploads/2017/12/Screen-Shot-2017-12-01-at-20.05.38.png
 type: post
 id: 1598
 ---

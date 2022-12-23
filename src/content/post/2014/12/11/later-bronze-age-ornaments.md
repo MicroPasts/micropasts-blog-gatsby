@@ -3,6 +3,7 @@ title: 'Later Bronze Age Ornaments'
 date: '2014-12-11T17:35:43+00:00'
 status: publish
 permalink: /2014/12/11/later-bronze-age-ornaments
+featuredImage: ../../../../uploads/2014/12/East-Dean-hoard.jpg
 author: 
     - Alex Davies
 excerpt: ''

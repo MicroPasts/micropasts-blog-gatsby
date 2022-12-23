@@ -3,6 +3,7 @@ title: 'Communities, engagement experiences and value'
 date: '2013-11-14T10:46:39+00:00'
 status: publish
 permalink: /2013/11/14/communities-engagement-experiences-and-value
+featuredImage: ../../../../uploads/2013/11/2402570561_1c452fb8b4_c.jpg
 excerpt: ''
 type: post
 id: 150

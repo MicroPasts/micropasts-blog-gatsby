@@ -31,7 +31,6 @@ module.exports = {
             options: {
               maxWidth: 2000,
               withWebp: true,
-              formats: ['auto', 'webp'],
               showCaptions: true,
               quality: 90,
               linkImagesToOriginal: true,

@@ -5,7 +5,7 @@ status: publish
 permalink: /2016/12/07/quando-un-ippopotamo-puo-salvarti
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2016/12/Screenshot-2016-12-07-16.26.46.png
 type: post
 id: 1498
 category:

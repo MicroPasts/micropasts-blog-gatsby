@@ -3,9 +3,9 @@ title: 'Crowd-sourcing and Crowd-funding our Human Past'
 date: '2015-03-19T10:02:13+00:00'
 status: publish
 permalink: /2015/03/19/crowd-sourcing-and-crowd-funding-our-human-past
+featuredImage: ../../../../uploads/2015/03/17000758805_6810b848ae_c.jpg
 author: 
     - Daniel Pett
-excerpt: ''
 type: post
 id: 876
 category:

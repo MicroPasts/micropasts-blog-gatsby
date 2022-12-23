@@ -1,11 +1,11 @@
 ---
-title: 'Things that go bump in the night: The Selborne-Blackmoor Hoard &#038; the significance of LBA weapon hoards'
+title: 'Things that go bump in the night: The Selborne-Blackmoor Hoard; the significance of LBA weapon hoards'
 date: '2014-11-17T17:19:25+00:00'
 status: publish
 permalink: /2014/11/17/things-that-go-bump-in-the-night-the-selborne-blackmoor-hoard-the-significance-of-lba-weapon-hoards
 author: 
     - Jennifer Wexler
-excerpt: ''
+featuredImage: ../../../../uploads/2014/11/B1hKvcdCEAIudbw.jpg
 type: post
 id: 782
 category:
@@ -25,8 +25,7 @@ Both Middle Bronze Age (MBA) and Late Bronze Age (LBA) hoards (an overview of Br
 ![MBA hoard from Blackmoor (pictured top), and two BA Index cards illustrating objects from the hoard (bottom) © Trustees of the British Museum](../../../../uploads/2014/11/BMHoard_Selborne0001_BMHoard_Selborne0002_fb-729x1024.jpg)
 The LBA weapon hoard, discovered in the garden of a cottage near Blackmoor in the spring of 1870, is more famously-known. This hoard has a complicated history of collection. A large part of the hoard was handed over to Lord Selborne, as it was found on his land. He displayed it in the former billiard room of his home Blackmoor House. It currently makes up part of the Selborne Collection now in possession of the [Gilbert White Museum](http://www.gilbertwhiteshouse.org.uk/), the home of the 19<sup>th</sup> century naturalist who wrote *The Natural History of Selborne* (the earliest reference to the hoard was first mentioned Bell’s updated 1877 edition of the volume (White 1877)). This included sword fragments, over twenty large and small spearheads, three rings, some ferrule fragments, and one mysterious ‘grooved socket’ not found anywhere else in BA Britain.
 
-![Example of a LBA socketed spearhead (1891,0514.6) originating from the Roots Collection, now in the BM © Trustees of the British Museum](../../../../uploads/2014/11/Figure-3-%E2%80%93-Example-of-a-LBA-socketed-spearhead-18910514.6-originating-from-the-Roots-Collection-now-in-the-BM-%C2%A9-Trustees-of-the-British-Museum.jpg)
-
+![Example of a LBA socketed spearhead (1891,0514.6) originating from the Roots Collection, now in the BM © Trustees of the British Museum](../../../../uploads/2014/11/Figure-3-–-Example-of-a-LBA-socketed-spearhead-18910514.6-originating-from-the-Roots-Collection-now-in-the-BM-©-Trustees-of-the-British-Museum.jpg)
 Somehow two large groups of objects from the hoard were separated from the Selborne collection. We have no records of what exactly happened, but some of the hoard was disposed of soon after discovery and sold to two prominent antiquarian collectors, George Roots and Rev. William Greenwell. The Greenwell collection (BM accession numbers WG. 2100-2112, 1269) is composed largely of various spearheads associated to ‘Blackmoor-Woolmer Forest’ and was donated to the British Museum by John Pierpont Morgan in 1908. The Roots collection is larger and more diverse in object types, it is largely composed of spearheads, sword and sword fragments, and cast rings, though it was originally associated to the ‘south of England’ and then ‘Woolmer Forest’. Evidence suggests that the Selborne, Greenwell, and Roots assemblages were all part of the same deposit. Spearhead fragments from the Selborne and Roots Collections fit together, and a number of the short stumpy spearheads in all three collections appear to be made from the same mould (Colquhoun 1979; Colquhoun and Burgess 1988).
 
 ![Lunette spearhead originating from the Blackmoor Hoard, now in the Metropolitan Museum of Art © MET Museum](../../../../uploads/2014/11/Figure-4-–Lunette-spearhead-originating-from-the-Blackmoor-Hoard-now-in-the-Metropolitan-Museum-of-Art-©-MET-Museum.jpg)

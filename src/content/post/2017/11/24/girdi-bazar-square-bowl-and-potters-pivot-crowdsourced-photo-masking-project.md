@@ -5,7 +5,7 @@ status: publish
 permalink: /2017/11/24/girdi-bazar-square-bowl-and-potters-pivot-crowdsourced-photo-masking-project
 author:
     - Aris
-excerpt: ''
+featuredImage: ../../../../uploads/2017/11/IMG_2883.jpg
 type: post
 id: 1550
 ---

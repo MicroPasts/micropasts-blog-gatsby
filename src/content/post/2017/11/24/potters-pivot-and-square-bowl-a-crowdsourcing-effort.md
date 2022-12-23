@@ -5,7 +5,7 @@ status: publish
 permalink: /2017/11/24/potters-pivot-and-square-bowl-a-crowdsourcing-effort
 author: 
     - Tullia Fraser
-excerpt: ''
+featuredImage: ../../../../uploads/2017/11/IMG_2883.jpg
 type: post
 id: 1542
 ---

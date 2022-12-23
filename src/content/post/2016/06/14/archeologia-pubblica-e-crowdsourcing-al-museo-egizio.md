@@ -5,7 +5,7 @@ status: publish
 permalink: /2016/06/14/archeologia-pubblica-e-crowdsourcing-al-museo-egizio
 author: 
     - Chiara Bonacchi
-excerpt: ''
+featuredImage: ../../../../uploads/2016/06/Screen-Shot-2016-06-02-at-20.10.03.png
 type: post
 id: 1364
 category:

@@ -5,7 +5,7 @@ status: publish
 permalink: /2015/02/13/crowdsourced
 author: 
     - Lisa Cardy
-excerpt: ''
+featuredImage: ../../../../uploads/2015/02/Lisa-IMG_7285-e1423843094252.jpg
 type: post
 id: 863
 category:

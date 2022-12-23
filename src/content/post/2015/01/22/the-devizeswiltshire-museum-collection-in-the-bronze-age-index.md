@@ -3,6 +3,7 @@ title: 'The Devizes/Wiltshire Museum Collection in the Bronze Age Index'
 date: '2015-01-22T17:12:41+00:00'
 status: publish
 permalink: /2015/01/22/the-devizeswiltshire-museum-collection-in-the-bronze-age-index
+featuredImage: ../../../../uploads/2015/01/StonehengeWorldHeritageSitemap.png
 author: 
     - Jennifer Wexler
 excerpt: ''
