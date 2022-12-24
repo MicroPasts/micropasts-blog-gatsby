@@ -1,5 +1,4 @@
 const _ = require("lodash")
-const fs = require("fs");
 const {paginate} = require("gatsby-awesome-pagination");
 exports.createPages = async ({ actions,graphql }) => {
   const { createPage } = actions
@@ -9,6 +8,11 @@ exports.createPages = async ({ actions,graphql }) => {
 
   return graphql(`
      {
+     tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: {frontmatter: {tag: SELECT}}) {
+          fieldValue
+        }
+      }
   blogPosts: allMarkdownRemark(
     filter: {frontmatter: {type: {eq: "post"}}}
     sort: {frontmatter: {date: DESC}}
@@ -67,6 +71,20 @@ exports.createPages = async ({ actions,graphql }) => {
         },
       });
     });
+    const tags = result.data.tagsGroup.group
+    const tagTemplate = require.resolve("./src/templates/tags.js")
+
+    // Make tag pages
+    tags.forEach(tag => {
+      createPage({
+        path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+        component: tagTemplate,
+        context: {
+          tag: tag.fieldValue,
+        },
+      })
+    });
+
     paginate({
       createPage: createPage,
       component: blogPostPagedTemplate,

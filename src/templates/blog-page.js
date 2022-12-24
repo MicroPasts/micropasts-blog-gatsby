@@ -4,6 +4,7 @@ import Layout from "../components/layout";
 import {Container, Row} from "react-bootstrap";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
+import Tags from "../components/structure/tag";
 
 export default function BlogPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, timeToRead, html} = markdownRemark;
@@ -22,6 +23,7 @@ export default function BlogPageTemplate({data: {markdownRemark}}) {
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
             </Container>
+            {frontmatter.tag && <Tags tags={frontmatter.tag}/>}
 
         </Layout>
     );
@@ -42,6 +44,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 title
                 author
+                tag
             }
         }
     }

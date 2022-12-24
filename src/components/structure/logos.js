@@ -5,7 +5,7 @@ import { Container, Col, Row } from "react-bootstrap";
 const Logos = () => {
   return (
     <>
-      <Col md={10} className="mx-auto">
+      <Col md={10} className="mx-auto pt-5">
         <Row className="justify-content-center mb-4 ">
           <Col md={2} sm={2} className="col-md-2 text-center mx-2">
             <a href="https://www.ucl.ac.uk/">
@@ -39,7 +39,7 @@ const Logos = () => {
           </Col>
         </Row>
       </Col>
-      <Container fluid className="bg-white py-5">
+      <Container fluid className="bg-white py-3">
         <Col md={2} sm={2} className="mx-auto">
           <a href="https://ahrc.ukri.org/">
             <StaticImage src={"../../images/logos/AHRC_new.jpg"} alt={"\"AHRC logo"} className="img-fluid mx-auto"

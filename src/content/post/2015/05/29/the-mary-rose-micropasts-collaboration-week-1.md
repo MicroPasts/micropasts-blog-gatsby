@@ -15,11 +15,11 @@ On Friday 22<sup>nd</sup> May, the Mary Rose Trust and MicroPasts teams launched
 
 With the project now underway, we would like to take the opportunity to provide some background information on the [Mary Rose](http://www.maryrose.org), the Museum and the artefacts included as part of this first pilot project with MicroPasts.
 
-![The Mary Rose Museum, Portsmouth Historic Dockyard © Hufton+Crow](../../../../uploads/2015/05/The-Mary-Rose-Museum-Hufton-Crow-280x300.jpg)
+![The Mary Rose Museum, Portsmouth Historic Dockyard © Hufton+Crow](../../../../uploads/2015/05/The-Mary-Rose-Museum-Hufton-Crow.jpg)
 
 The Mary Rose was a Tudor warship that sank during a battle with an invading French fleet near Portsmouth, on the South coast of England, in 1545. The hull and her contents were covered (and preserved) by the silts of the Solent. They remained there until they were rediscovered in 1971. Following one of the largest maritime excavations ever undertaken, the hull was eventually raised on 11<sup>th</sup> October 1982.
 
-![Lower Deck walkway of the Context Gallery © Hufton+Crow](../../../../uploads/2015/05/Lower-Deck-Context-Gallery-Hufton-Crow-300x142.jpg)
+![Lower Deck walkway of the Context Gallery © Hufton+Crow](../../../../uploads/2015/05/Lower-Deck-Context-Gallery-Hufton-Crow.jpg)
 
 In May 2013 a new purpose built museum, that reunited the hull and thousands of her artefacts, was opened to the public. The hull, at the centre of this museum, is undergoing an air drying treatment. This is the final stage of her conservation, a process that has lasted over 30 years. In 2016, the air drying will be completed, the museum will be closed while the walls surrounding the hull are taken down and the museum will then be re-opened with amazing new views of the hull throughout the building.
 
@@ -36,7 +36,7 @@ The bone plaque of two angels was identified as being similar to those made in t
 
 The staved wooden tankard was one of the most complete tankards recovered during the excavations on the Mary Rose. It is interesting to note that oak, poplar, pine, beech and willow were all used in its construction.
 
-![Wooden tankard (81A3915.1-11) - © Mary Rose Trust](../../../../uploads/2015/05/Wooden-tankard-2-81A3915.1-11-©-Mary-Rose-Trust-213x300.jpg)
+![Wooden tankard (81A3915.1-11) - © Mary Rose Trust](../../../../uploads/2015/05/Wooden-tankard-2-81A3915.1-11-©-Mary-Rose-Trust.jpg)
 ### Beech wooden bowl
 
 The beech wooden bowl is one of 30 recovered during the excavations and it has one of the more intricate set of markings on both the inside and outside. These are thought to denote its ownership.
