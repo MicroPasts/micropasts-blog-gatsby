@@ -10,7 +10,6 @@ author:
     - Daniel Pett
 tag:
     - archaeology
-    - Austin
     - Co-creation
     - co-design
     - Communities

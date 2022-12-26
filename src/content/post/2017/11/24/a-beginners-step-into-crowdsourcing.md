@@ -7,6 +7,10 @@ author:
     - Sarah
 type: post
 id: 1552
+tag:
+    - digital
+    - crowdsourcing
+    - 3D modelling
 ---
 I learnt about crowdsourcing by the joining the Level 2 Advanced Skills ‘Digital Heritage’ module which I am taking at the Archaeology Department of Durham University. As a complete beginner, I stepped into the daunting world (for me) of informatics and technology, a risk I was willing to take for the sake of engaging a wide range of people into the heritage sector. Indeed, using archaeological data and different platforms, the whole tutorial class worked on the creation of a project available on MicroPasts for a 3D photo-masking of a potter’s pivot and square bowl found at Gird I-Bazar -an archaeological site in the Kurdish Autonomous Region of Iraq dating to the Neo-Assyrian period (ca. 900-600 BCE)-. Now this application is ready and you can help with it! Exciting! Involving the public and specialists across the world into the conservation and spreading of our heritage -even when it is not a subject they are familiar with- but also sharing different knowledge and ideas makes this project a wonderful adventure; where anyone can contribute in small or big steps, just as I learned to do it.
 

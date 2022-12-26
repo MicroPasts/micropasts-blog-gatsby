@@ -6,11 +6,15 @@ permalink: /2015/11/12/initial-reflections-on-the-micropasts-knowledge-exchange-
 featuredImage: ../../../../uploads/2015/11/FMLr6-6XMAA2rQH.jpg
 author: 
     - James Doeser
-excerpt: ''
 type: post
 id: 1107
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - policy
+    - archaeology
+    - review
 ---
 How do we use crowd-based methods? What benefits do they generate? Where do they fall short? How can we sustain them? And how do they support the work of organisations in a heritage ecology? These were the questions addressed at a knowledge exchange workshop hosted by the [UCL Institute of Archaeology](http://www.ucl.ac.uk/archaeology) on 23 September. It builds upon the [MicroPasts](http://micropasts.org/) project, which has put nearly £400,000 of Arts and Humanities Research Council money to work in creating crowd-sourcing, crowd-funding and forum platforms to support the collaborative study of the human past. The workshop was an opportunity to share the learning from the MicroPasts project and reflect further upon how this insight can be deployed more widely across the heritage world. Those present were experts from across the fundraising, policy, evaluation and public engagement professions.
 

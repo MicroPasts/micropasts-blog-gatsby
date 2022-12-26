@@ -8,45 +8,49 @@ exports.createPages = async ({ actions,graphql }) => {
 
   return graphql(`
      {
-     tagsGroup: allMarkdownRemark(limit: 2000) {
+      tagsGroup: allMarkdownRemark(limit: 2000) {
         group(field: {frontmatter: {tag: SELECT}}) {
           fieldValue
         }
       }
-  blogPosts: allMarkdownRemark(
-    filter: {frontmatter: {type: {eq: "post"}}}
-    sort: {frontmatter: {date: DESC}}
-    limit: 1000
-  ) {
-    edges {
-      node {
-        id
-        frontmatter {
-          date
-          permalink
-          title
+      authorsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: {frontmatter: {author: SELECT}}) {
+          fieldValue
+        }
+      }
+      blogPosts: allMarkdownRemark(
+        filter: {frontmatter: {type: {eq: "post"}}}
+        sort: {frontmatter: {date: DESC}}
+        limit: 1000
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              date
+              permalink
+              title
+            }
+          }
+        }
+      }
+      blogPages: allMarkdownRemark(
+        filter: {frontmatter: {type: {eq: "page"}}}
+        sort: {frontmatter: {date: DESC}}
+        limit: 1000
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              date
+              permalink
+              title
+            }
+          }
         }
       }
     }
-  }
-  blogPages: allMarkdownRemark(
-    filter: {frontmatter: {type: {eq: "page"}}}
-    sort: {frontmatter: {date: DESC}}
-    limit: 1000
-  ) {
-    edges {
-      node {
-        id
-        frontmatter {
-          date
-          permalink
-          title
-        }
-      }
-    }
-  }
-}
-
   `).then(result => {
     if (result.errors) {
       return Promise.reject(result.errors)
@@ -84,6 +88,19 @@ exports.createPages = async ({ actions,graphql }) => {
         },
       })
     });
+    const author = result.data.authorsGroup.group
+    const authorTemplate = require.resolve("./src/templates/authors.js")
+    // Make tag pages
+    author.forEach(author => {
+      createPage({
+        path: `/authors/${_.kebabCase(author.fieldValue)}/`,
+        component: authorTemplate,
+        context: {
+          author: author.fieldValue,
+        },
+      })
+    });
+
 
     paginate({
       createPage: createPage,

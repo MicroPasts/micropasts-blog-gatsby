@@ -3,9 +3,10 @@ title: 'About the project'
 date: '2013-10-18T14:43:58+01:00'
 status: publish
 permalink: /about-the-project
-excerpt: ''
 type: page
 id: 26
+author: 
+    - Chiara Bonacchi
 ---
 This project will be using the [MicroPasts](http://micropasts.org/ "Micropasts platform") platform and crowd-sourcing methods to allow traditional academics and other communities in archaeology to co-produce innovative open datasets, and thereafter pioneers a novel participatory model in which these same groups co-design and micro-fund follow-up research.
 

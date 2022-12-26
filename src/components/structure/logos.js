@@ -43,7 +43,7 @@ const Logos = () => {
         <Col md={2} sm={2} className="mx-auto">
           <a href="https://ahrc.ukri.org/">
             <StaticImage src={"../../images/logos/AHRC_new.jpg"} alt={"\"AHRC logo"} className="img-fluid mx-auto"
-                         height={100} placeholder={'NONE'}/>
+                         height={100} placeholder={'NONE'} />
           </a>
         </Col>
       </Container>

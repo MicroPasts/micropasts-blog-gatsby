@@ -8,6 +8,10 @@ author:
 featuredImage: ../../../../uploads/2017/11/IMG_2883.jpg
 type: post
 id: 1542
+tag:
+- digital
+- crowdsourcing
+- 3d modelling
 ---
 “Alone we can do so little, together we can do so much”. I believe this sentence encapsulates the essence of the Level 2 Digital Heritage course I am currently taking at the Department of Archaeology, Durham University. The focus of this course is heritage crowdsourcing, where we utilize the knowledge and skillsets of different people around the world to contribute to the heritage sector. This gradually builds a collaborative bond between institutions and the public, the likes of which is less seen in traditional GLAM institutions. As a task in our practical sessions with Digital Heritage, we have created a photo-masking project on MicroPasts for the public to contribute to.
 

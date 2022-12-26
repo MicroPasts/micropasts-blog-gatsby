@@ -7,8 +7,14 @@ author:
     - Jennifer Wexler
 type: post
 id: 1295
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - citizen science
+    - 'community archaeology'
+    - bronze age
+    - 'archaeology'
+    - BAI
 featuredImage: ../../../../uploads/2016/01/Lady_of_the_Lake.jpg
 ---
 ![Lady of the Lake drawing by M. Bowley](../../../../uploads/2016/01/Lady_of_the_Lake.jpg)

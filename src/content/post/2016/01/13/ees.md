@@ -8,8 +8,15 @@ author:
 featuredImage: ../../../../uploads/2016/01/Fig-1-TA.NEG_.30-31.0036.jpg
 type: post
 id: 1351
-category:
-    - Research
+tag:
+    - Egypt
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - archaeology 
+    - 'archives'
+    - Egypt Exploration Society
+    - Museum
+    - Volunteers
 ---
 In 2015 the Egypt Exploration Society expanded its annual archive [volunteer programme](http://ees.ac.uk/archive/volunteerprojects.html) and made digitization its primary goal. Though the Society had already scanned a large number of archival documents and images, the [new referencing system](http://ees.ac.uk/news/index/264.html) developed for the archive during 2014 had to be implemented across its virtual collections. To this end, the Society’s collections of object cards were felt to present the greatest opportunity to test this system and provide valuable research material for teams still working in the field today. 
 

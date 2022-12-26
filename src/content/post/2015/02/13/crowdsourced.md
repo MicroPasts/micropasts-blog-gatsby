@@ -8,8 +8,15 @@ author:
 featuredImage: ../../../../uploads/2015/02/Lisa-IMG_7285-e1423843094252.jpg
 type: post
 id: 863
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - archaeology
+    - 'community archaeology'
+    - 'citizen science'
+    - 'Digital Humanities'
+    - volunteering
 ---
 I’ve been a MicroPasts contributor for around two months now, a good time to write this post about why I wanted to be one of the ‘sourced’ crowd and what I’ve got out of it so far. To begin with, here’s *my* brief summary of MicroPasts: it’s a web-based collection of archaeological projects that anyone can get involved with. The MicroPasts site hosts lots of content, some of which I’ll return to later, but let me start with ‘crowdsourcing’.
 

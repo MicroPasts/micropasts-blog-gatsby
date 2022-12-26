@@ -11,6 +11,10 @@ category:
 tag:
     - presentation
     - 'British Museum'
+    - 'Digital Humanities'
+    - 'Public Archaeology'
+    - 'open data'
+    - 'open source'
 author:
     - Daniel Pett
 ---

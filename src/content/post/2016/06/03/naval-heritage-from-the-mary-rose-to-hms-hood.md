@@ -9,8 +9,15 @@ author:
 featuredImage: ../../../../uploads/2016/06/Screen-Shot-2016-06-03-at-12.37.41.png
 type: post
 id: 1397
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - Mary Rose
+    - maritime archaeology
+    - archaeology
+    - museum
+    - 3d modelling
+    - volunteers
 ---
 In March 2015, the team at the [Mary Rose Trust](http://www.maryrose.org/about-us/) met with [Chiara](http://www.ucl.ac.uk/archaeology/people/staff/honorary/bonacchi), who introduced MicroPasts and the various [projects](http://crowdsourced.micropasts.org/project/category/featured/) that the MicroPasts team had been involved in. The Mary Rose Trust team were hugely impressed with the passion of the [collaborators](http://crowdsourced.micropasts.org/account/) that had contributed to the online projects as well as the quality of the work that had been produced and the possibility of achieving a lot in a very short space of time!
 

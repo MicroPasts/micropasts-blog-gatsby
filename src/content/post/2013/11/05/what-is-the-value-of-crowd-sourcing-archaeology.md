@@ -5,17 +5,16 @@ status: publish
 permalink: /2013/11/05/what-is-the-value-of-crowd-sourcing-archaeology
 featuredImage: ../../../../uploads/2013/11/3501625083_99f1091857_c.jpg
 author:
-  - Chiara Bonnachi
-excerpt: ''
+  - Chiara Bonacchi
 type: post
 id: 144
 tag:
     - crowd-funding
     - crowd-sourcing
-    - 'Cultural Heritage'
-    - 'Digital Humanities'
+    - Cultural Heritage
+    - Digital Humanities
     - MicroPasts
-    - 'Public Archaeology'
+    - Public Archaeology
 ---
 Hello,
 

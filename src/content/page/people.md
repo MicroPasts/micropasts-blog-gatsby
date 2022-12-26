@@ -3,9 +3,10 @@ title: People
 date: '2013-10-18T14:29:29+01:00'
 status: publish
 permalink: /people
-excerpt: ''
 type: page
 id: 16
+author: 
+    - Chiara Bonacchi
 ---
 **Project team**
 

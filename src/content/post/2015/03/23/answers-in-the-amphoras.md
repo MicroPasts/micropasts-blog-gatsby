@@ -8,8 +8,6 @@ author:
 featuredImage: ../../../../uploads/2015/03/amphtypes.jpg
 type: post
 id: 879
-category:
-    - Research
 tag:
     - Amphora
     - Ceramics

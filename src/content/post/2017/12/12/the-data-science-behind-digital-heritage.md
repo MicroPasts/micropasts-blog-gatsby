@@ -8,6 +8,12 @@ author:
 featuredImage: ../../../../uploads/2017/12/Screen-Shot-2017-12-01-at-20.05.38.png
 type: post
 id: 1598
+tag:
+- digital
+- crowdsourcing
+- 3d modelling
+- data science
+- archaeology
 ---
 Digital engagement is beyond posting the odd picture of an artefact, as we learnt in our final practical session in Digital Heritage at Durham University. There is also a process of looking back and analyzing data, spotting trends and features to further improve whatever project you may be involved in. In this session, we utilized R software, an open-source software (and programming language). The task was to extract data from the MicroPasts Twitter account ([@MicroPasts](https://twitter.com/MicroPasts)), and conduct basic text analysis techniques.
 

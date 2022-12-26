@@ -8,8 +8,16 @@ author:
 featuredImage: ../../../../uploads/2014/11/B1hKvcdCEAIudbw.jpg
 type: post
 id: 782
-category:
+tag:
     - Research
+    - 'Late Bronze Age'
+    - 'Hoards'
+    - 'Selborne-Blackmoor Hoard'
+    - Hoards
+    - Metalwork
+    - 'Citizen Science'
+    - 'Crowd-sourcing'
+    - 'BAIs'
 ---
 ![Part of the Blackmoor Hoard in the British Museum Collections © Trustees of the British Museum](../../../../uploads/2014/11/Figure-1-–-Part-of-the-Blackmoor-Hoard-in-the-British-Museum-Collections-©-Trustees-of-the-British-Museum.jpg)
 

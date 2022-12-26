@@ -13,6 +13,11 @@ tag:
     - Switzerland
     - 'Digital Humanities'
     - 'Digital Humanities 2014'
+    - 'citizen science'
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - archaeology
+    - 'community archaeology'
 ---
 The project has just been represented at the Digital Humanities 2014 conference in Lausanne, Switzerland.
 <div class="ratio ratio-16x9 my-3">

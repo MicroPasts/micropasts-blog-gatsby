@@ -20,6 +20,7 @@ tag:
     - metalwork
     - 'Society of Antiquaries of London'
     - 'Stuart Needham'
+    - 3D modelling
 
 ---
 We are in the process of adding a new photo-masking application to the MicroPasts site. This is going to be a bit of a ‘pop-up shop’ as it will only include one Bronze Age British hoard, although it is one of considerable importance.

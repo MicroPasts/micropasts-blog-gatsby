@@ -13,15 +13,13 @@ tag:
     - Benin
     - 'Bronze Age collection curator'
     - Crowdsourcing
-    - 'Daniel Lombraña González'
-    - 'Daniel Pett'
+    - pybossa
+    - scifabric
     - Flickr
-    - 'Jennifer Wexler'
-    - 'Neil Wilkin'
 ---
 Since late 2013, the MicroPasts team has been preparing the [British Museum](http://britishmuseum.org)‘s (BM) Bronze Age Index to be the first offering on our [crowd-sourcing platform](http://crowdsourced.micropasts.org "The MicroPasts crowd sourcing platform"). This corpus consists of around 30,000 (roughly A4 sized) cards (holding information going back to as early as 1913). The majority of these are double sided and generally have text on the front and a line drawing on the reverse (there are many variants that have been discovered, such as large fold out shield plans.)
 
-![MicroPasts    Application  British Museum Bronze Age Index Drawer B16 · Contribute](../../../../uploads/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute.png)
+![MicroPasts Application  British Museum Bronze Age Index Drawer B16 · Contribute](../../../../uploads/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute.png)
 
 Over the last few years, several curators have mooted exercises ([Ben Roberts](https://www.dur.ac.uk/archaeology/staff/?id=10573), now at Durham University attempted to turn the transcription into an AHRC funded collaborative Doctoral Award) to turn this amazing resource into a digital archive, but this had not come to fruition until the advent of the MicroPasts project. Internal discussions had been raging on how best to deal with these cards for a number of years, and it was felt that this project could perhaps be the ideal solution and provide museum and public interaction of a new type, which the BM had not explored previously.
 
@@ -33,7 +31,7 @@ The equipment needed for this is relatively straight forward, the BM has acquire
 
 The first drawer scanned is known as A9 ([this application](http://crowdsourced.micropasts.org/app/drawA9/ "Application A9") on the platform), and this was done by the Bronze Age Curator Neil Wilkin ([@nwilkinBM](https://twitter.com/NWilkinBM "neil on Twitter") on Twitter) over a few weeks whilst dispensing with his other duties. Once Jennifer returned, scanning started in earnest! These high resolution images were then stored in various places to facilitate good data preservation (on an external 4TB hard drive, the Portable Antiquities Scheme server cluster and onto Amazon S3) and they were then stitched together by Daniel Pett ([@portableant](http://twitter.com/portableant) on Twitter), as composite images using a [simple python script](https://github.com/findsorguk/MicroPasts-Scripts/blob/master/imageStitch.py "Github script for image stitching") and then uploaded to Flickr (for example see [this set](https://www.flickr.com/photos/micropasts/sets/72157641305131374/ "Flickr set")) for the crowd-sourcing platform to access and then present them as tasks for our audience to assist with. All of these images have been released under the most liberal licence that Flickr permits (we would have ideally liked to make them CC0, but this option does not exist) and so they are served up under a CC-BY licence. The data that will be transcribed, will also be made available for download and reuse by anyone, under a CC0 licence. The embedded tweet below, shows an example of one of the stitched cards:
 
-> Playing with Python scripts to merge Bronze Age Palstave images together for [@MicroPasts](https://twitter.com/MicroPasts?ref_src=twsrc%5Etfw) An example image attached. [pic.twitter.com/Xe0Rdb7prz](http://t.co/Xe0Rdb7prz)<
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Playing with Python scripts to merge Bronze Age Palstave images together for <a href="https://twitter.com/MicroPasts?ref_src=twsrc%5Etfw">@MicroPasts</a> An example image attached. <a href="http://t.co/Xe0Rdb7prz">pic.twitter.com/Xe0Rdb7prz</a></p>&mdash; Daniel Pett (@DEJPett) <a href="https://twitter.com/DEJPett/status/436817767983890432?ref_src=twsrc%5Etfw">February 21, 2014</a></blockquote>
 
 The platform that we’re using for serving up the crowd sourcing tasks has been created by Daniel Lombraña González (lead developer – [@teleyinex](https://twitter.com/teleyinex "Daniel's twitter profile") on Twitter) and the [Pybossa](http://pybossa.com "Pybossa site") team, and it is a departure from the usual technology stack that the project team has used previously. Installation of the platform is straightforward and it was deployed on to [Portable Antiquities Scheme](http://finds.org.uk) hardware in around 15 minutes. We then employed Daniel to assist with building the transcription application skeleton (in conjunction with project lead Andy Bevan (not on Twitter!) and Daniel Pett) that would be used for each drawer, whilst we also developed our own look and feel to give MicroPasts some visual identity. If you’re interested, the code is available on [GitHub](http://github.com/findsorguk) and if you have suggestions from improvements, you could either fork the code or comment on our [community forum](http://community.micropasts,org).
 
@@ -43,15 +41,11 @@ For the last few months, building up to launch, lots of debugging and user testi
 
 And then we launched and tasks are ongoing:
 
-> [@MicroPasts](https://twitter.com/MicroPasts?ref_src=twsrc%5Etfw) Launches today!Help us discover the lost secrets of the Bronze Age Index at the BM:<http://t.co/T1nErnWVbi> [pic.twitter.com/nyTdUwjCyA](http://t.co/nyTdUwjCyA)>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/MicroPasts?ref_src=twsrc%5Etfw">@MicroPasts</a> Launches today!Help us discover the lost secrets of the Bronze Age Index at the BM:<a href="http://t.co/T1nErnWVbi">http://t.co/T1nErnWVbi</a> <a href="http://t.co/nyTdUwjCyA">pic.twitter.com/nyTdUwjCyA</a></p>&mdash; Dr Jennifer Wexler (@JWexlerBM) <a href="https://twitter.com/JWexlerBM/status/456467924920721408?ref_src=twsrc%5Etfw">April 16, 2014</a></blockquote> 
 
 
 This project is very exciting for the BM and especially for our curatorial staff. It could unlock new opportunities and Neil sums up very succinctly, why we are doing this public archaeology project, so we’ll leave it to him:
 
-> Opening the treasures of the Bronze Age to the widest public is why I get up, I would love your help: <http://t.co/q7eWlIrD9j>
-> 
-> — Neil Wilkin (@NWilkinBM) [April 16, 2014](https://twitter.com/NWilkinBM/status/456421634237140992?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Opening the treasures of the Bronze Age to the widest public is why I get up, I would love your help: <a href="http://t.co/q7eWlIrD9j">http://t.co/q7eWlIrD9j</a></p>&mdash; Neil Wilkin (@NWilkinBM) <a href="https://twitter.com/NWilkinBM/status/456421634237140992?ref_src=twsrc%5Etfw">April 16, 2014</a></blockquote> 
 
 Thank you for participating!

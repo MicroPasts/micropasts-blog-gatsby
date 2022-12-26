@@ -8,6 +8,10 @@ author:
 featuredImage: ../../../../uploads/2017/11/IMG_2943.jpg
 type: post
 id: 1559
+tag:
+- digital
+- crowdsourcing
+- 3d modelling
 ---
 Are you interested in the human past?
 

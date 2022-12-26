@@ -8,6 +8,10 @@ author:
 featuredImage: ../../../../uploads/2017/11/IMG_2883.jpg
 type: post
 id: 1550
+tag:
+- digital
+- crowdsourcing
+- 3d modelling
 ---
 Hello all,
 

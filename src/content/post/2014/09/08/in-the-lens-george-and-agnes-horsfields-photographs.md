@@ -13,6 +13,9 @@ tag:
     - 'George Horsfield'
     - 'George Horsfield Collection'
     - UCL
+    - 'UCL Institute of Archaeology'
+    - 'citizen science'
+    - 'crowd-sourcing'
 ---
 **[Amara Thornton](mailto:amara.thornton@ucl.ac.uk) (British Academy Postdoctoral Research Fellow, UCL Institute of Archaeology)**
 

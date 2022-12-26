@@ -6,11 +6,19 @@ permalink: /2015/01/22/the-devizeswiltshire-museum-collection-in-the-bronze-age-
 featuredImage: ../../../../uploads/2015/01/StonehengeWorldHeritageSitemap.png
 author: 
     - Jennifer Wexler
-excerpt: ''
 type: post
 id: 838
-category:
-    - Research
+tag:
+    - BAI
+    - 'Bronze Age Index'
+    - 'Devizes Museum'
+    - 'Devizes/Wiltshire Museum'
+    - Museum
+    - 'Wiltshire Museum'
+    - 'Weapons'
+    - 'Stonehenge'
+    - Archaeology
+    - 'Digital Humanities'
 ---
 In the process of digitising the Bronze Age Index, we have come across a small collection of Index cards recording artefacts in the Wiltshire Museum (formerly the Devizes Museum: <http://www.wiltshiremuseum.org.uk/>). This was recently written up by Culture24 [(http://www.culture24.org.uk/history-and-heritage/archaeology/art513504-bronze-age-finds-from-barrow-cemeteries-in-stonehenge-country-to-be-recreated-in-3d](http://www.culture24.org.uk/history-and-heritage/archaeology/art513504-bronze-age-finds-from-barrow-cemeteries-in-stonehenge-country-to-be-recreated-in-3d)), highlighting our ongoing collaboration with the Wiltshire Museum as we continue to research this collection.
 

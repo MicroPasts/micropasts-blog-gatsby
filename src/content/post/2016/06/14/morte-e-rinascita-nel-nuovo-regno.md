@@ -8,8 +8,13 @@ author:
 featuredImage: ../../../../uploads/2016/06/boxME2-e1462396809335.jpg
 type: post
 id: 1366
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - Egypt
+    - 'Egyptian archaeology'
+    - mortuary
+    - 'mummy studies'
 ---
 ![](../../../../uploads/2016/06/boxME2-e1462396809335.jpg)
 A partire dalla XVIII dinastia (1550-1295 a. C.) e fino all’età tolemaica (332-30 a. C.) le statuette funerarie, note con il nome di *[ushabty](https://blog.micropasts.org/2014/06/23/shabtis-and-the-ancient-egyptian-afterlife/),* furono spesso disposte all’interno di cofanetti per la maggior parte di legno. Durante tutto il Nuovo Regno (1550-1069 a. C.) e l’inizio del Terzo Periodo Intermedio (1069-945 a.C.) essi assunsero la forma di cappelle cultuali in miniatura.

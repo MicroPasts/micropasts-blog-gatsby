@@ -3,9 +3,10 @@ title: 'Learning Resources'
 date: '2014-04-28T11:06:57+01:00'
 status: publish
 permalink: /learning
-excerpt: ''
-type: page
+stype: page
 id: 398
+author:
+    - Daniel Pett
 ---
 
 While contributing to MicroPasts, you may have wondered about (a) the ultimate purpose of specific data collection exercises, (b) how certain archives, objects, etc. fit into the wider archaeology or history of the period/region, and (c) how you might further make use of newly created data or explore certain kinds of methods offline.

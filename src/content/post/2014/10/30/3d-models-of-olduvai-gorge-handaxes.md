@@ -8,8 +8,13 @@ author:
 featuredImage: ../../../../uploads/2014/10/EFHR-LO-2.jpg
 type: post
 id: 770
-category:
+tag:
     - Research
+    - '3D models'
+    - 'Prehistoric technology'
+    - 'Olduvai Gorge'
+    - Handaxes
+    - Citizen Science
 ---
 These two handaxes belong to the EF-HR locality, in Olduvai Gorge (Tanzania). EF-HR is located in the North side of the Olduvai Gorge. It was discovered in 1931 by Sir Evelyn Fuchs and Professor Hans Reck, and named after their initials. The first excavations were undertaken by M. Leakey in 1963, and then by OGAP ([Olduvai Geochronology Archaeology Project](http://www.olduvai-gorge.org)) since 2009. 
 

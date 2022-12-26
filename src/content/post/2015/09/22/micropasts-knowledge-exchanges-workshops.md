@@ -6,11 +6,17 @@ permalink: /2015/09/22/micropasts-knowledge-exchanges-workshops
 featuredImage: ../../../../uploads/2015/09/Screenshot 2022-12-22 at 23.13.21.png
 author: 
     - Chiara Bonacchi
-excerpt: ''
 type: post
 id: 942
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - 'knowledge exchange'
+    - 'workshops'
+    - 'community archaeology'
+    - 'citizen science'
+    - 'Digital Humanities'
 ---
 Two back-to-back workshops were held on 23 September at the UCL Institute of Archaeology. The aim of the MicroPasts Knowledge Exchanges workshops was to share the practices, shortcomings and achievements experienced by the MicroPasts project and use these as fodder for wider discussion about the use and evaluation of both crowd-sourcing and crowd-funding within a broader heritage ‘ecology’.
 

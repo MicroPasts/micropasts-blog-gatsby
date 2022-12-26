@@ -4,6 +4,7 @@ import Layout from "../components/layout";
 import {Container, Row} from "react-bootstrap";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
+import Authors from "../components/structure/authors";
 import Tags from "../components/structure/tag";
 
 export default function BlogPageTemplate({data: {markdownRemark}}) {
@@ -14,9 +15,7 @@ export default function BlogPageTemplate({data: {markdownRemark}}) {
                 <Row className={"post-body"}>
                     <div className="px-4">
                         <h1 className="text-black fw-bold mt-4 mb-2">{frontmatter.title}</h1>
-                        <h2 className="text-primary small">{frontmatter.date} By {frontmatter.author && frontmatter.author.map(writer => (
-                          `${writer} `
-                        ))}</h2>
+                        <Authors author={frontmatter.author}/>
                         <h3 className="text-primary lead small">{`${formatReadingTime(timeToRead)}`}</h3>
                     </div>
                     <div className="post-body bg-white text-black p-4"

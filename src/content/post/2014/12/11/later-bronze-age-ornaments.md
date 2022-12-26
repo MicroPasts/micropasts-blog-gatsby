@@ -6,11 +6,17 @@ permalink: /2014/12/11/later-bronze-age-ornaments
 featuredImage: ../../../../uploads/2014/12/East-Dean-hoard.jpg
 author: 
     - Alex Davies
-excerpt: ''
 type: post
 id: 810
-category:
+tag:
     - Research
+    - 'East Dean'
+    - 'hoard'
+    - 'Bronze Age'
+    - 'archaeology'
+    - 'community archaeology'
+    - 'citizen science'
+    - 'crowd-sourcing'
 ---
 Bronze Age ornaments form a major category of metal artefact. Those made of gold are some of the most captivating prehistoric objects known to us. They are probably the most personal objects surviving as they were worn on the body and, as is still true today, were a daily and ever-present signaller of identity, status and an individual’s personality.
 

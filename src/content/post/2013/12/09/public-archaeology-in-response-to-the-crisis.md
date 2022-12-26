@@ -5,19 +5,18 @@ status: publish
 permalink: /2013/12/09/public-archaeology-in-response-to-the-crisis
 featuredImage: ../../../../uploads/2013/12/unnamed.jpg
 author: 
-    - Chiara Bonnachi
-excerpt: ''
+    - Chiara Bonacchi
 type: post
 id: 337
 tag:
     - archaeology
-    - 'Archeologia Pubblica'
+    - Archeologia Pubblica
     - crowd-funding
     - crowd-sourcing
-    - 'economic crisis'
+    - economic crisis
     - financing
-    - 'Public Archaeology'
-    - 'public engagement'
+    - Public Archaeology
+    - public engagement
 ---
 Hello,
 

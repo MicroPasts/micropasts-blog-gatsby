@@ -3,9 +3,10 @@ title: About
 date: '2014-04-08T16:17:44+01:00'
 status: publish
 permalink: /about
-excerpt: ''
 type: page
 id: 341
+author: 
+    - Daniel Pett
 ---
 **MicroPasts** is a web platform that brings together full-time academic researchers, volunteer archaeological and historical societies and other interested members of the public to collaborate on new kinds of research about archaeology, history and heritage. It is a place where enthusiasts (of any background) can not only create high-quality research data together, but also collaboratively design and fund entirely new research projects. In particular, we want to improve how people traditionally distinguished as ‘academics’, ‘professionals’ and ‘volunteers’ cooperate with one another (as well as with other people out there who as yet have no more than a passing interest).
 

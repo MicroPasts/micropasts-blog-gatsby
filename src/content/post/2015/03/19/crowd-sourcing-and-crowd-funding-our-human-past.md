@@ -8,8 +8,6 @@ author:
     - Daniel Pett
 type: post
 id: 876
-category:
-    - Research
 tag:
     - 3D
     - 'Aberystwyth University'

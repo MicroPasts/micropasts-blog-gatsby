@@ -8,8 +8,11 @@ author:
 featuredImage: ../../../../uploads/2016/12/Sofia-Cafe-1-September-2016.jpg
 type: post
 id: 1519
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - volunteering
+    - 'archaeological research'
 ---
 ![sofia-cafe-1-september-2016](../../../../uploads/2016/12/Sofia-Cafe-1-September-2016.jpg)
 

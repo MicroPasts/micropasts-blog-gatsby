@@ -8,8 +8,18 @@ author:
 featuredImage: ../../../../uploads/2015/05/Bone-angel-81A2851-©-Mary-Rose-Trust.jpg
 type: post
 id: 892
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - 'citizen science'
+    - 'crowdfunding'
+    - 'community archaeology'
+    - 'Digital Humanities'
+    - 'archaeology'
+    - 'maritime archaeology'
+    - '3D modelling'
+
 ---
 On Friday 22<sup>nd</sup> May, the Mary Rose Trust and MicroPasts teams launched a collaborative [3D photo-masking pilot project](http://crowdsourced.micropasts.org/app/photomaskingMaryRose/) on the MicroPasts crowdsourcing platform. The aim is to create 3D models for three of the museum’s artefacts. We are really grateful to MicroPasts collaborators for helping complete 37% of the application already (as of 29<sup>th</sup> May)! It is exciting to see people engaging with the collection online, and it will be interesting to discover how the 3D models are viewed, downloaded and used, once developed.
 

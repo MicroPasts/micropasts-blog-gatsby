@@ -3,17 +3,19 @@ title: '3D Modelling via SfM'
 date: '2014-06-13T10:18:26+01:00'
 status: publish
 permalink: /2014/06/13/3d-modelling-via-sfm
-excerpt: ''
 type: post
 id: 647
 author: 
     - Andy Bevan
 tag:
     - '3D computer graphics'
-    - '3D modeling'
-    - 'Computer vision'
+    - 3D modelling
+    - Computer vision
     - 'Shape analysis'
     - 'Susie Green'
+    - 'Structure from motion'
+    - 'Virtual reality'
+    - SFMs
 featuredImage: ../../../../uploads/2014/06/axe2.png
 ---
 **What is it and how can it be used?**

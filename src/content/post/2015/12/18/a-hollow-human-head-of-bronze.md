@@ -8,8 +8,11 @@ author:
 featuredImage: ../../../../uploads/2015/11/EthiopianHead-copy.png
 type: post
 id: 1141
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - British Museum
+    - Ethiopia
 ---
 ![EthiopianHead copy](../../../../uploads/2015/11/EthiopianHead-copy.png) 
 

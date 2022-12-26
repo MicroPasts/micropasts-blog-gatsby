@@ -3,7 +3,8 @@ title: 'Data Centre'
 date: '2014-04-08T16:19:16+01:00'
 status: publish
 permalink: /data-centre
-excerpt: ''
+author: 
+  - Chiara Bonacchi
 type: page
 id: 345
 ---

@@ -8,8 +8,12 @@ author:
 featuredImage: ../../../../uploads/2016/06/Screen-Shot-2016-06-02-at-20.10.03.png
 type: post
 id: 1364
-category:
+tag:
     - Research
+    - public archaeology
+    - 'crowd-sourcing'
+    - 'crowd-funding'
+    - citizen science
 ---
 **Archeologia e Pubblico**. Comprendere come la ricerca e i risultati da essa conseguiti divengono (o meno) parte del nostro vivere contemporaneo, studiare le implicazioni etiche, sociali, economiche, politiche derivanti dall’analisi archeologica della cultura materiale e dalla sua comunicazione e fruizione in senso più lato. Queste sono le tematiche affrontate dal settore dell’Archeologia Pubblica, declinazione italiana dell’inglese *Public Archaeology.*
 

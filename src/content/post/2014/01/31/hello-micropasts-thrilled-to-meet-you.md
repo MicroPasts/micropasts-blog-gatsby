@@ -9,23 +9,23 @@ id: 443
 author:
     - Adi Keinan-Schoonbaert
 tag:
-    - '3D modelling'
+    - 3D modelling
     - archaeology
     - archives
-    - 'citizen science'
+    - citizen science
     - co-design
     - co-production
     - Communities
     - crowd-funding
     - crowd-sourcing
-    - 'Cultural Heritage'
+    - Cultural Heritage
     - databases
-    - 'Digital Humanities'
+    - Digital Humanities
     - history
     - MicroPasts
-    - 'open data'
+    - open data
     - photography
-    - SfM
+    - SFM
     - transcription
 ---
 My name is Adi, and I’m a research associate at the [UCL Institute of Archaeology](https://www.ucl.ac.uk/archaeology/). Earlier this month I joined the [MicroPasts team](https://blog.micropasts.org/people/) – and I’m especially excited about this project as it feeds into my background and interests in so many ways. Before coming to London I was an archaeologist and academic back home in Israel. A few years ago, I created the [West Bank and East Jerusalem Archaeological Database (WBEJAD)](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll74), an inventory of archaeological sites excavated or surveyed by Israeli archaeologists since the occupation of the West Bank in 1967. Archaeological databases in the Occupied Territories were also later on the subject of my PhD dissertation. So, I’m passionate about topics such as documentation, recording, and the management of archaeological and heritage data. Now, let me tell you why I’m so enthusiastic about MicroPasts.

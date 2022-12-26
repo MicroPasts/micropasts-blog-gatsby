@@ -8,8 +8,11 @@ author:
 featuredImage: ../../../../uploads/2016/12/Screenshot-2016-12-07-16.26.46.png
 type: post
 id: 1498
-category:
+tag:
     - Research
+    - 'crowd-sourcing'
+    - Egypt
+    - Egyptology
 ---
 Questa statuetta [(Museo Egizio, Torino](http://www.museoegizio.it), numero di inventario Cat.526, 40 x 17 x 21.5 cm), intagliata nel legno e dipinta a colori vivaci, raffigura una divinità femminile chiamata *Taweret* (“La grande” in egiziano antico) ed è databile al Nuovo Regno, probabilmente alla diciannovesima dinastia (1292-1190 a.C.).
 

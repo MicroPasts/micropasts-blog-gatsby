@@ -9,12 +9,12 @@ import {Container, Row, Col} from "react-bootstrap";
 import {startCase} from "lodash"
 import Seo from "../components/structure/SEO";
 
-const Tags = ({pageContext, data}) => {
-  const {tag} = pageContext
+const Authors = ({pageContext, data}) => {
+  const {author} = pageContext
   const {edges, totalCount} = data.allMarkdownRemark
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
-  } tagged with "${startCase(tag)}"`
+  } authored by "${startCase(author)}"`
 
   return (
     <Layout>
@@ -29,7 +29,7 @@ const Tags = ({pageContext, data}) => {
             })}
           </Row>
           <Col md={4}>
-            <Link className="my-3 btn-dark btn" to="/tags">All tags</Link>
+            <Link className="my-3 btn-dark btn" to="/authors">All authors</Link>
           </Col>
         </Row>
       </Container>
@@ -38,9 +38,9 @@ const Tags = ({pageContext, data}) => {
 
 }
 
-Tags.propTypes = {
+Authors.propTypes = {
   pageContext: PropTypes.shape({
-    tag: PropTypes.string.isRequired,
+    author: PropTypes.string.isRequired,
   }),
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
@@ -50,7 +50,6 @@ Tags.propTypes = {
           node: PropTypes.shape({
             frontmatter: PropTypes.shape({
               title: PropTypes.string.isRequired,
-              slug: PropTypes.string.isRequired,
             }),
           }),
         }).isRequired
@@ -59,23 +58,23 @@ Tags.propTypes = {
   }),
 }
 
-export default Tags
+export default Authors
 
 export const pageQuery = graphql`
-    query($tag: String) {
+    query($author: String) {
         allMarkdownRemark(
             limit: 2000
-            filter: { frontmatter: { tag: { in: [$tag] } } }
+            filter: { frontmatter: { author: { in: [$author] } } }
         ) {
             totalCount
             edges {
                 node {
-                    id
                     excerpt(format: PLAIN, pruneLength: 400)
                     frontmatter {
                         title
                         permalink
                         author
+                        tag
                         featuredImage {
                             childImageSharp {
                                 gatsbyImageData(
@@ -94,6 +93,6 @@ export const pageQuery = graphql`
 `
 export function Head({pageContext}) {
   return (
-    <Seo title={"Pages tagged with " + pageContext.tag} />
+    <Seo title={"Pages authored by " + pageContext.author} />
   )
 }

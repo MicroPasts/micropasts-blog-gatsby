@@ -14,7 +14,6 @@ tag:
     - Crowdsourcing
     - GitHub
     - 'Jeff Howe'
-    - large
     - MicroPasts
     - Sourcing
     - 'transcription applications'
