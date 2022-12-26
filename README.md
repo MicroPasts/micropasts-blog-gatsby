@@ -7,7 +7,7 @@ This repository holds a very simple blog system for the MicroPasts project.
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-default-starter/
+    cd micropasts-blog-gatsby/
     gatsby develop
     ```
 
@@ -17,7 +17,7 @@ This repository holds a very simple blog system for the MicroPasts project.
 
     Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.txt`. Save your changes and the browser will update in real time!
+    Open the `micropasts-blog-gatsby` directory in your code editor of choice and edit `src/pages/index.txt`. Save your changes and the browser will update in real time!
 
 ## 🚀 Quick start (Gatsby Cloud)
 
