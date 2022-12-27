@@ -21,6 +21,7 @@ module.exports = {
     siteUrl: `https://blog.micropasts.org`,
   },
   plugins: [
+    `gatsby-plugin-sass`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-transformer-remark`,

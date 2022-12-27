@@ -7,8 +7,8 @@ import {Link} from "gatsby";
 const Authors = ({author}) => (
   <Row>
         {author && <Col md={12} className="mb-2">
-          {author.map((item, i) => (
-            <Link to={`/authors/${kebabCase(item)}/`} className="btn btn-dark mx-1 my-1 p-2 text-white"
+          Authored by:  {author.map((item, i) => (
+            <Link to={`/authors/${kebabCase(item)}/`} className="mx-1"
                   key={i}>{startCase(item)}</Link>
           ))}
         </Col>}

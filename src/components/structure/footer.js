@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Container } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {
   faFacebook,
@@ -17,29 +17,33 @@ const Footer = () => {
       >
         <Container>
           <footer className="text-center text-lg-start text-white">
-            <section className="d-flex justify-content-between p-4">
-              <div className="me-5">
-                <span>Follow us:</span>
-              </div>
+            <section className="d-flex justify-content-between pt-4">
+              <Container>
+                <Row>
+                  <Col md={4} className="mb-4 mb-md-0">
+                    <span>Follow us:</span>
+                  </Col>
+                  <Col md={8} className="mb-4 mb-md-0">
+                    <a href="https://facebook.com/micropasts" className="text-white me-4"
+                       aria-label="Our facebook profile"><FontAwesomeIcon icon={faFacebook} size="2x" className="m-2" /></a>
+                    <a href="https://twitter.com/micropasts" className="text-white me-4"
+                       aria-label="Our twitter profile"><FontAwesomeIcon icon={faTwitter} size="2x" className="m-2"/></a>
+                    <a href="https://github.com/micropasts" className="text-white me-4"
+                       aria-label="Our GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x" className="m-2" /></a>
+                    <a href="https://www.youtube.com/@micropasts3076/" className="text-white me-4"
+                       aria-label="Our YouTube profile"><FontAwesomeIcon icon={faYoutube} size="2x" className="m-2" /></a>
+                    <a href="https://sketchfab.com/micropasts" className="text-white"
+                       aria-label="My Sketchfab account profile"><SketchfabIcon className="fa-2x m-2 svg-inline--fa" style={{ height:32, width: 32 }}/></a>
+                  </Col>
+                </Row>
+              </Container>
 
-              <div>
-                <a href="https://facebook.com/micropasts" className="text-white me-4"
-                   aria-label="Our facebook profile"><FontAwesomeIcon icon={faFacebook} size="2x" className="m-2" /></a>
-                <a href="https://twitter.com/micropasts" className="text-white me-4"
-                   aria-label="Our twitter profile"><FontAwesomeIcon icon={faTwitter} size="2x" className="m-2"/></a>
-                <a href="https://github.com/micropasts" className="text-white me-4"
-                   aria-label="Our GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x" className="m-2" /></a>
-                <a href="https://www.youtube.com/@micropasts3076/" className="text-white me-4"
-                   aria-label="Our YouTube profile"><FontAwesomeIcon icon={faYoutube} size="2x" className="m-2" /></a>
-                <a href="https://sketchfab.com/micropasts" className="text-white"
-                   aria-label="My Sketchfab account profile"><SketchfabIcon className="fa-2x m-2 svg-inline--fa" style={{ height:32, width: 32 }}/></a>
-              </div>
             </section>
 
             <section className="">
-              <div className="container text-center text-md-start mt-5">
-                <div className="row mt-3">
-                  <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+              <Container className="text-center text-md-start mt-5">
+                <Row className="mt-3">
+                  <Col md={3} lg={4} xl={3} className="cmx-auto mb-4">
                     <h6 className="text-uppercase fw-bold">MicroPasts</h6>
                     <hr className="mb-4 mt-0 d-inline-block mx-auto" />
                     <p>
@@ -49,7 +53,7 @@ const Footer = () => {
                       Join us on our mission to enable high quality digitally enabled
                       research into archaeology, history and heritage.
                     </p>
-                  </div>
+                  </Col>
 
                   <Col md={2} lg={2} xl={2} className="mx-auto mb-4">
                     <h6 className="text-uppercase fw-bold">Projects</h6>
@@ -72,8 +76,8 @@ const Footer = () => {
                     <p>Institute of Archaeology, 31-34 Gordon Square, London WC1H 0PY</p>
                     <p><a className={'text-white'} href={"mailto:info@micropasts.org"}>info@micropasts.org</a></p>
                   </Col>
-                </div>
-              </div>
+                </Row>
+              </Container>
             </section>
 
           </footer>

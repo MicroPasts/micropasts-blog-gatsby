@@ -14,7 +14,7 @@ const Authors = ({pageContext, data}) => {
   const {edges, totalCount} = data.allMarkdownRemark
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
-  } authored by "${startCase(author)}"`
+  } authored by ${startCase(author)}`
 
   return (
     <Layout>
