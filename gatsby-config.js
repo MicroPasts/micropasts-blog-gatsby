@@ -138,6 +138,17 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-MRBHPT2C54",
+        ],
+        pluginConfig: {
+          head: true
+        },
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `micropasts-blog`,
