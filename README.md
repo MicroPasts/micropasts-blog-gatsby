@@ -1,5 +1,7 @@
 # MicroPasts Blog
 
+[![DOI](https://zenodo.org/badge/561532900.svg)](https://zenodo.org/badge/latestdoi/561532900)
+
 This repository holds a very simple blog system for the MicroPasts project. 
 
 1.  **Start developing.**
