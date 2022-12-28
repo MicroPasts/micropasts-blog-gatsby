@@ -38,20 +38,33 @@ export const pageQuery = graphql`
             wordCount {
               words
              }
+            excerpt(format: PLAIN, pruneLength: 30)
             frontmatter {
                 permalink
                 date(formatString: "MMMM DD, YYYY")
                 title
                 author
                 tag
+                featuredImage {
+                    childImageSharp {
+                        gatsbyImageData(
+                            placeholder: BLURRED
+                            height: 600
+                            formats: [AUTO, WEBP]
+                            width: 600
+                            quality: 80
+                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                        )
+                    }
+                }
             }
         }
     }
 `;
 
 export function Head({data: {markdownRemark}}) {
-    const {frontmatter} = markdownRemark;
+    const {frontmatter,excerpt} = markdownRemark;
     return (
-        <Seo title={frontmatter.title}  />
+        <Seo title={frontmatter.title} description={excerpt} featured={frontmatter.featuredImage} />
     )
 }

@@ -63,5 +63,7 @@ export const pageQuery = graphql`
 `
 
 export const Head = () => (
-    <Seo title={"Blog and news"} description={"A sporadically populated blog; news, stories, tips"} />
+    <Seo title={"Blog and news"}
+         description={"A sporadically populated blog; news, stories, tips"}
+    />
 )
