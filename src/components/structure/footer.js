@@ -73,7 +73,7 @@ const Footer = () => {
                     <hr
                       className="mb-4 mt-0 d-inline-block mx-auto"
                     />
-                    <p>Institute of Archaeology, 31-34 Gordon Square, London WC1H 0PY</p>
+                    <p>Institute of Archaeology,<br/>31-34 Gordon Square,<br/>London<br/>WC1H 0PY</p>
                     <p><a className={'text-white'} href={"mailto:info@micropasts.org"}>info@micropasts.org</a></p>
                   </Col>
                 </Row>
