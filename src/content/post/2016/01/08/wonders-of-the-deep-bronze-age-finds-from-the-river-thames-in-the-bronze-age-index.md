@@ -21,7 +21,7 @@ featuredImage: ../../../../uploads/2016/01/Lady_of_the_Lake.jpg
 
 Our penultimate [Bronze Age Index project](http://crowdsourced.micropasts.org/project/ThamesSwords/) focuses on Bronze Age swords from the River Thames. Finds from the Thames and other watery locations in Britain and Northern Europe have fascinated scholars for many years, and recent excavations at [Must Farm](http://www.mustfarm.com) and [Flag Fen](http://www.vivacity-peterborough.com/museums-and-heritage/flag-fen/) show the incredible importance of riverine environments to prehistoric peoples. In a sense, Thames finds have been central to the study of later prehistoric Europe over the last hundred years, and there have been a huge amount of studies (see references below) dedicated to the topic, in particular on the increasing deposition of weapons (spearheads, dirks, rapiers, swords) from the Middle Bronze Age onwards (Bradley 1990: 99, 108-109). The idea of depositing weapons in water very much resonates with our popular cultural history. Folk stories and myths of a legendary past often feature the act of throwing costly and beautiful items into the water as both a sacrifice and an offering, most famously depicted in the story of King Arthur’s magical sword Excalibur being returned to the Lady of the Lake (illustrated above), with these stories possibly reflecting [echoes of ancient practices](http://traumwerk.stanford.edu/archaeolog/2008/02/celtic_swords_and_arthurs_lady.html).
 
-![BMFinds_DirksThames ©Trustees of the British Museum.](../../../../uploads/2016/01/BMFinds_DirksThames-e1452267136965.jpg)
+![A drawing of a dirk from the River Thames ©Trustees of the British Museum.](../../../../uploads/2016/01/BMFinds_DirksThames-e1452267136965.jpg)
 
 The River Thames was famously described as ‘Liquid history’ by the 19th century MP [John Burns](https://en.wikipedia.org/wiki/John_Burns), and its importance cannot be underestimated as both a natural boundary and, perhaps, the [‘longest archaeological site’](http://www.archaeology.co.uk/articles/features/liquid-history-excavating-londons-great-river-the-thames.htm) in the UK (York 2002, Cohen 2010). What can the Bronze Age Index (BAI) tells us about Bronze Age metalwork deposition in the River Thames and the collection history of this material? We have over 1,200 records of artefacts connected to the Thames recorded in the Index. Largely it is an antiquarian collection relating to the numerous artefacts recovered from the Thames during the 19<sup>th</sup> and early 20<sup>th</sup> century, which were often found by workmen in the course of dredging and the building of bridges and locks. Many of these objects were acquired by private collectors, who often paid handsomely for high quality display pieces but rarely recorded the exact find spots and circumstances of recovery (Cowie &amp; Eastmond 1997: 88).
 
@@ -55,7 +55,7 @@ Many cards feature small finds and ornaments, as shown here, recording Ivor Noel
 ![Thames Artifact Types](../../../../uploads/2016/01/ThamesArtifactTypes.jpg)
 Looking more closely at artefacts recorded in the Index, we have 26 categories of artefact types from the Thames that are so far represented in the Index, as shown here. At the moment we have many more spearheads than anything else, but dirks &amp; rapiers, swords, socketed axes, palstaves, and knives all figure prominently. This pattern is repeated throughout studies of Thames material, with not only a massive record of weapons found in the Thames from the MBA onwards but the concentrations of sword deposition (pictured below) by the LBA clustering in the Thames Valley and Fenland of East Anglia, with relatively few deposited north of the Severn-Wash line.
 
-![Map ©N. Wilkin after Colquhoun &amp; Burgess 1988](../../../../uploads/2016/01/Neil-Thames-Metalwork-Slide.jpg)
+![Map © N. Wilkin after Colquhoun & Burgess 1988](../../../../uploads/2016/01/Neil-Thames-Metalwork-Slide.jpg)
 
 How is this material being treated? York’s excellent [2002 study](http://onlinelibrary.wiley.com/doi/10.1111/1468-0092.00150/abstract) looked at both Index and published records in order to reassess the lifecycle and destruction of metalwork from the non-tidal Thames upstream of Teddington. She notes that in conjunction with the rise in weapon deposition there is also an increase in object destruction from the Penard (late MBA) to Wilburton phase (early LBA). Spearheads and swords were being treated differently than other objects deposited in the Thames, with destruction levels increasing over time, and it is clear that Bronze Age communities were perceiving these objects in a new and special light (York 2002: 88-89). Deposition may have been related to a display of wealth, social status, territory, celebratory after battle, or part of a burial or community ritual (for further discussion, see Bradley 1990).
 
@@ -67,21 +67,21 @@ In particular it would be key to connect this data to other museum’s collectio
 
 This blog was based on a paper I presented on 20th April 2015 at the [*Tales the River Tells: Later Prehistoric Finds from In and Around the Thames* ](http://www.prehistoricsociety.org/events/event/tales_the_river_tells/)Conference run by the [Prehistoric Society](http://www.prehistoricsociety.org/) and the [Later Prehistoric Finds Group](https://sites.google.com/site/laterprehistoricfindsgroup/). Many thanks to [Michael Marshall](http://www.mola.org.uk/people/michael-marshall) (Museum of London Archaeology) and [Courtney Nimura](https://oxford.academia.edu/CourtneyNimura) (University of Oxford) for inviting me to speak at the conference.
 
-**Bibliography**
+### Bibliography
 
-- BRADLEY, R. 1990: The Passage of Arms (Cambridge University Press).
-- BRADLEY, R. and GORDON, K. 1988: Human skulls from the River Thames, their dating and significance. Antiquity 62, 503–9.
-- COHEN, N. 2010: Liquid History: Excavating London’s great river, the Thames. [Current Archaeology 244 (July 2010)](http://www.archaeology.co.uk/articles/features/liquid-history-excavating-londons-great-river-the-thames.htm)
-- COLQUHOUN, I. and BURGESS, C. 1988: The swords of Britain. Prähistorische Bronzefunde IV.5. Munich: Beck.
-- COTTON, J. 1999: Ballast-Heavers and Battle-Axes: The ‘Golden Age’ of Thames Finds. In Coles, A. and Dion, M. (eds.), Mark Dion: Archaeology (Black Dog Publishing), 58–71.
-- COWIE, R. and EASTMOND, D. 1997: An archaeological survey of the foreshore in the Borough of Richmond upon Thames. London Archaeologist 8 (4-5), 87-93, 115-121.
-- EHRENBERG, M.R. 1977: Bronze Age Spearheads from Berkshire, Buckinghamshire and Oxfordshire (Oxford, BAR Brit. Ser. 34).
-- EHRENBERG, M. 1980: The Occurrence of Bronze Age Metalwork in the Thames: An Investigation. Transactions of the London and Middlesex Archaeological Society 31, 1–15.
-- FIELD, D. 1989: Tranchet axes and Thames picks: Mesolithic core tools from the west London Thames. Trans London Middlesex Archaeol Soc 40, 18.
-- NEEDHAM, S. 1988: Selective deposition in the British Early Bronze Age. World Archaeology 20(2), 229–48.
-- NEEDHAM, S. and BURGESS, C. 1980: The later Bronze Age in the Lower Thames Valley: the Metalwork Evidence. In Barrett, J. and Bradley, R. (eds.), The British Later Bronze Age (Oxford, BAR Brit. Ser. 83 (i)), 437–70.
-- O’CONNOR, B. 1980: Cross-Channel Relations in the Later Bronze Age (Oxford, BAR Int. Ser. 91 (i) and (ii)).
-- PEARCE, S. 1984: Bronze Age Metalwork in Southern Britain (Princes Risborough).
-- ROWLANDS, M.J. 1976: The Production and Distribution of Metalwork in the Middle Bronze Age in Southern Britain (Oxford, BAR 31).
-- THOMAS, R. 1984: Bronze Age Metalwork from the Thames at Wallingford. Oxoniensia 49, 9–18.
-- YORK, J. 2002: The Life Cycle of Bronze Metalwork from the Thames. Oxford Journal of Archaeology 21(2), 77-92.
+- Bradley, R. 1990: The Passage of Arms (Cambridge University Press).
+- Bradley, R. and Gordon, K. 1988: Human skulls from the River Thames, their dating and significance. Antiquity 62, 503–9.
+- Cohen, N. 2010: Liquid History: Excavating London’s great river, the Thames. [Current Archaeology 244 (July 2010)](http://www.archaeology.co.uk/articles/features/liquid-history-excavating-londons-great-river-the-thames.htm)
+- Colquhoun, I. and Burgess, C. 1988: The swords of Britain. Prähistorische Bronzefunde IV.5. Munich: Beck.
+- Cotton, J. 1999: Ballast-Heavers and Battle-Axes: The ‘Golden Age’ of Thames Finds. In Coles, A. and Dion, M. (eds.), Mark Dion: Archaeology (Black Dog Publishing), 58–71.
+- Cowie, R. and Eastmond, D. 1997: An archaeological survey of the foreshore in the Borough of Richmond upon Thames. London Archaeologist 8 (4-5), 87-93, 115-121.
+- Ehrenberg, M.R. 1977: Bronze Age Spearheads from Berkshire, Buckinghamshire and Oxfordshire (Oxford, BAR Brit. Ser. 34).
+- Ehrenberg, M. 1980: The Occurrence of Bronze Age Metalwork in the Thames: An Investigation. Transactions of the London and Middlesex Archaeological Society 31, 1–15.
+- Field, D. 1989: Tranchet axes and Thames picks: Mesolithic core tools from the west London Thames. Trans London Middlesex Archaeol Soc 40, 18.
+- Needham, S. 1988: Selective deposition in the British Early Bronze Age. World Archaeology 20(2), 229–48.
+- Needham, S. and Burgess, C. 1980: The later Bronze Age in the Lower Thames Valley: the Metalwork Evidence. In Barrett, J. and Bradley, R. (eds.), The British Later Bronze Age (Oxford, BAR Brit. Ser. 83 (i)), 437–70.
+- O’Connor, B. 1980: Cross-Channel Relations in the Later Bronze Age (Oxford, BAR Int. Ser. 91 (i) and (ii)).
+- Pearce, S. 1984: Bronze Age Metalwork in Southern Britain (Princes Risborough).
+- Rowlands, M.J. 1976: The Production and Distribution of Metalwork in the Middle Bronze Age in Southern Britain (Oxford, BAR 31).
+- Thomas, R. 1984: Bronze Age Metalwork from the Thames at Wallingford. Oxoniensia 49, 9–18.
+- York, J. 2002: The Life Cycle of Bronze Metalwork from the Thames. Oxford Journal of Archaeology 21(2), 77-92.
