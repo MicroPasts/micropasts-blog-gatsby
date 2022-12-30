@@ -3,6 +3,7 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
+const siteUrl = `https://blog.micropasts.org`
 
 /**
  * @type {import('gatsby').GatsbyConfig}
@@ -138,6 +139,35 @@ module.exports = {
       }
     },
     {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        query: `
+        {
+          allSitePage {
+            nodes {
+              path
+            }
+          }
+         
+        }
+      `,
+        resolveSiteUrl: () => siteUrl,
+        resolvePages: ({
+                         allSitePage: { nodes: allPages }
+                       }) => {
+
+          return allPages.map(page => {
+            return { ...page };
+          });
+        },
+        serialize: ({ path }) => {
+          return {
+            url: path
+          };
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: [
@@ -146,6 +176,57 @@ module.exports = {
         pluginConfig: {
           head: true
         },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.frontmatter.permalink,
+                  guid: site.siteMetadata.siteUrl + node.frontmatter.permalink,
+                  custom_elements: [{ "content:encoded": node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  nodes {
+                    excerpt
+                    html
+                    frontmatter {
+                      title
+                      date
+                      permalink
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "MicroPasts Blog RSS Feed"
+          },
+        ],
       },
     },
     {
