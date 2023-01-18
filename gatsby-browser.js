@@ -4,7 +4,6 @@ import "@popperjs/core/dist/umd/popper.min"
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.min"
 import "./src/styles/global.css"
-import "@fontsource/public-sans";
-import 'typeface-sorts-mill-goudy/index.css';
-import '/static/dark-mode.css';
-import 'dark-mode-switch/dark-mode-switch.min.js';
+// import "@fontsource/public-sans";
+// import '/static/dark-mode.css';
+// import 'dark-mode-switch/dark-mode-switch.min.js';
