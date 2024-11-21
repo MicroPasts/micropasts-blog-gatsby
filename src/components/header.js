@@ -13,6 +13,13 @@ const Header = ({ siteTitle }) => (
       backgroundColor: `var(--color-footer-bg)`,
     }}
   >
+    <div>
+    <a href="https://micropasts.org" style={{
+      fontSize: `var(--font-lg)`,
+      textDecoration: `none`,
+      color: `white`,
+      marginRight: `var(--space-4)`,
+    }} rel="noreferrer">MicroPasts: A Crowdfuelled Research Project</a>
     <Link
       to="/"
       style={{
@@ -21,12 +28,12 @@ const Header = ({ siteTitle }) => (
         color: `white`,
       }}
     >
-      {siteTitle}
+      Blog
     </Link>
-    <StaticImage src={"../images/logos/MP_SOCIALMEDIA.jpg"} alt={"\"AHRC logo"}
+    </div>
+    <StaticImage src={"../images/logos/MP_SOCIALMEDIA.jpg"} alt={"Micropasts square logo"}
                  height={60} placeholder={'NONE'} style={{margin: 0}}/>
 
-  {/*<ThemeSwitch />*/}
   </header>
 )
 
