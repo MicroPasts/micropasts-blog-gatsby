@@ -64,7 +64,9 @@
     },
     "gatsby-remark-images-remote": {
       "phin": "3.7.1"
-    }
+    },
+    "phin": "3.7.1",
+    "tar-fs": ">=3.0.9"
   },
   "keywords": [
     "gatsby",
