@@ -4,11 +4,12 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {
   faFacebook,
   faGithub,
-  faTwitter,
+  faXTwitter,
   faYoutube,
 
 } from '@fortawesome/free-brands-svg-icons';
 import SketchfabIcon from "../../images/sketchfab-logo-white.svg";
+import { faX } from "@fortawesome/free-solid-svg-icons";
 const Footer = () => {
   return (
     <>
@@ -26,8 +27,8 @@ const Footer = () => {
                   <Col md={8} className="mb-4 mb-md-0">
                     <a href="https://facebook.com/micropasts" className="text-white me-4"
                        aria-label="Our facebook profile"><FontAwesomeIcon icon={faFacebook} size="2x" className="m-2" /></a>
-                    <a href="https://twitter.com/micropasts" className="text-white me-4"
-                       aria-label="Our twitter profile"><FontAwesomeIcon icon={faTwitter} size="2x" className="m-2"/></a>
+                    <a href="https://x.com/micropasts" className="text-white me-4"
+                       aria-label="Our twitter profile"><FontAwesomeIcon icon={faXTwitter} size="2x" className="m-2"/></a>
                     <a href="https://github.com/micropasts" className="text-white me-4"
                        aria-label="Our GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x" className="m-2" /></a>
                     <a href="https://www.youtube.com/@micropasts3076/" className="text-white me-4"
