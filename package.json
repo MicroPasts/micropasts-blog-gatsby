@@ -43,6 +43,7 @@
     "react-markdown": "^10.1.0",
     "sass": "^1.89.0",
     "socket.io": "^4.8.1",
+    "tar-fs": ">=3.0.9",
     "vanilla-cookieconsent": "^2.9.2",
     "word-wrap": "^1.2.5"
   },
@@ -58,9 +59,7 @@
       }
     },
     "gatsby-remark-images-remote": {
-      "@jimp/core": {
         "phin": "3.7.1"
-      }
     }
   },
   "keywords": [
