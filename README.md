@@ -2,7 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/561532900.svg)](https://zenodo.org/badge/latestdoi/561532900)
 
-This repository holds a very simple blog system for the MicroPasts project. 
+This repository holds a simple blog system for the [MicroPasts](https://micropasts.org/) project.
+
+## About MicroPasts
+
+MicroPasts is a collaborative platform for crowdsourcing and crowdfunding research in archaeology, history, and heritage. The project brings together professionals and enthusiasts to help digitize, transcribe, and enrich historical data, making it accessible for research and public engagement. Learn more at [micropasts.org](https://micropasts.org/).
+
+## 🚀 Quick start
 
 1.  **Start developing.**
 
@@ -20,6 +26,20 @@ This repository holds a very simple blog system for the MicroPasts project.
     Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
 
     Open the `micropasts-blog-gatsby` directory in your code editor of choice and edit `src/pages/index.txt`. Save your changes and the browser will update in real time!
+
+## 🚀 Deployments
+
+This blog is automatically deployed using GitHub Actions. On every push to the `main` branch, a workflow builds the site and deploys it to the configured hosting provider (such as GitHub Pages or Netlify). No manual deployment steps are required.
+
+To trigger a deployment, simply push your changes to the repository:
+
+```shell
+git add .
+git commit -m "Your message"
+git push origin main
+```
+
+The GitHub Actions workflow will handle the rest.
 
 ## 🚀 Quick start (Gatsby Cloud)
 
