@@ -1,0 +1,42 @@
+name: Build and Deploy this site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Run Gatsby deploy manually'
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Gatsby
+        run: |
+          npm install husky -g
+          npx husky install
+          chmod +x .husky/*
+          npm install -D @playwright/test@latest
+          npx playwright install
+          npm install --verbose
+
+      - name: Build Gatsby site
+        run: |
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.6.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          folder: public
