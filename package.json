@@ -52,7 +52,6 @@
   },
   "devDependencies": {
     "axios": ">=1.8.2",
-    "@babel/runtime": ">=7.26.10",
     "nanoid": "^4.0.0",
     "prettier": "^3.6.2"
   },
@@ -65,7 +64,8 @@
     "gatsby-remark-images-remote": {
       "phin": "3.7.1"
     },
-    "phin": "3.7.1",
+    "@babel/runtime": "^7.26.10",
+    "phin": "^3.7.1",
     "tar-fs": ">=3.0.9"
   },
   "keywords": [
