@@ -9,7 +9,6 @@ import {
 
 } from '@fortawesome/free-brands-svg-icons';
 import SketchfabIcon from "../../images/sketchfab-logo-white.svg";
-import { faX } from "@fortawesome/free-solid-svg-icons";
 const Footer = () => {
   return (
     <>
