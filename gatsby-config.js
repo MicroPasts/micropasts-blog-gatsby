@@ -4,7 +4,8 @@
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
 const siteUrl = `https://blog.micropasts.org`
-
+const purgeCssSafelist = require('./purgecss-safelist'); 
+const cookieConsentConfig = require('./gatsby-cookie-consent-config');
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
@@ -23,7 +24,97 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
+    {
+            resolve: `gatsby-plugin-purgecss`,
+            options: {
+                printRejected: true,
+                develop: false,
+                defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
+                ignore: [
+                    'src/components/layout.css',
+                    'src/styles/global.css',
+                    'node_modules/react-back-to-top/dist/BackToTop.css',
+                    'node_modules/vanilla-cookieconsent/dist/cookieconsent.css',
+                ],
+                purgeCSSOptions: {
+                    safelist: purgeCssSafelist,
+                    greedy: [],
+                    content: [
+                        './src/**/*.{js,jsx,ts,tsx}', // Default for your components
+                        './src/content/**/*.md',// Markdown files
+                    ],
+                    deep: [
+                        /active/, // Matches active classes for indicators and items
+                        /^alert-/, 
+                        /^breadcrumb-/, // Matches breadcrumb classes
+                        /^btn-/,
+                        /carousel/, // Catch all for any carousel-related classes
+                    ],
+                    // Safelist CSS variables used by alerts
+                    variables: [
+                    /^--bs-alert-/,
+                    ],
+                },
+            },
+        },
     `gatsby-plugin-image`,
+    {
+            resolve: "gatsby-plugin-svgr-svgo",
+            options: {
+                rule: {
+                    include: /\.svg$/,
+                    exclude: /node_modules/
+                },
+                inlineRequireUsageMarker: false,
+                removeStyleElement: false,
+                removeScriptElement: false,
+                removeDimensions: true,
+                convertColors: true,
+                svgrOptions: {
+                    plugins: [
+                        "@svgr/plugin-jsx",
+                        "@svgr/plugin-prettier"
+                    ],
+                    prettier: true,
+                    prettierConfig: {
+                        tabWidth: 2
+                    },
+                    svgo: true,
+                    svgoConfig: {
+                        plugins: [
+                            {
+                                name: "preset-default",
+                                params: {
+                                    overrides: {
+                                        removeViewBox: false,
+                                        convertColors: {
+                                            currentColor: true
+                                        },
+                                        removeDimensions: false,
+                                        removeAttrs: {
+                                            attrs: ["data-*"]
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                name: "addAttributesToSVGElement",
+                                params: {
+                                    attributes: [
+                                        { focusable: "false" }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    ref: true,
+                    titleProp: true,
+                    descProp: true,
+                    expandProps: "end",
+                    dimensions: false
+                }
+            }
+        },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -138,15 +229,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: "gatsby-plugin-react-svg",
-      options: {
-        rule: {
-          include: /images\/.*\.svg/,
-          omitKeys: ['xmlnsDc', 'xmlnsCc', 'xmlnsRdf', 'xmlnsSvg', 'xmlnsSodipodi', 'xmlnsInkscape']
-        }
-      }
-    },
-    {
       resolve: "gatsby-plugin-sitemap",
       options: {
         query: `
@@ -175,16 +257,9 @@ module.exports = {
         }
       }
     },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        trackingIds: [
-          "G-MRBHPT2C54",
-        ],
-        pluginConfig: {
-          head: true
-        },
-      },
+     {
+      resolve: `gatsby-plugin-google-gtag-cookieconsent`,
+      options: cookieConsentConfig
     },
     {
       resolve: `gatsby-plugin-feed`,

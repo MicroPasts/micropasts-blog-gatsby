@@ -6,7 +6,6 @@ import Logos from "./structure/logos";
 import Footer from "./structure/footer";
 import BackToTop from 'react-back-to-top';
 
-import CookieConsent from '../services/cookieconsent';
 import "./layout.css"
 
 const Layout = ({ children }) => {
@@ -59,7 +58,6 @@ const Layout = ({ children }) => {
         percent={false}
         visiblePercent={50}
       />
-      <CookieConsent/>
 
     </>
   )

@@ -1,30 +1,33 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from "react";
+import PropTypes from "prop-types";
 import Seo from "../components/structure/SEO";
 
 // Utilities
-import {kebabCase, startCase} from "lodash"
+import { kebabCase, startCase } from "lodash";
 
 // Components
-import { Link, graphql } from "gatsby"
-import Layout  from "../components/layout"
-import {Container,Row} from "react-bootstrap"
+import { Link, graphql } from "gatsby";
+import Layout from "../components/layout";
+import { Container, Row } from "react-bootstrap";
 
 const TagsPage = ({
-                    data: {
-                      allMarkdownRemark: { group },
-                      site: {
-                        siteMetadata: { title },
-                      },
-                    },
-                  }) => (
+  data: {
+    allMarkdownRemark: { group },
+    site: {
+      siteMetadata: { title },
+    },
+  },
+}) => (
   <Layout>
     <Container>
       <Row className={"post-body"}>
         <h1 className="ml-4 mt-4">Tags</h1>
         <ul className="list-group-flush row">
           {group.map(tag => (
-            <li key={tag.fieldValue} className="list-item col-md-4 border-top py-2 d-flex justify-content-between align-items-start">
+            <li
+              key={tag.fieldValue}
+              className="list-item col-md-4 border-top py-2 d-flex justify-content-between align-items-start"
+            >
               <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                 {startCase(tag.fieldValue)}
               </Link>
@@ -35,7 +38,7 @@ const TagsPage = ({
       </Row>
     </Container>
   </Layout>
-)
+);
 
 TagsPage.propTypes = {
   data: PropTypes.shape({
@@ -53,26 +56,29 @@ TagsPage.propTypes = {
       }),
     }),
   }),
-}
+};
 
-export default TagsPage
+export default TagsPage;
 
 export const pageQuery = graphql`
-    query {
-        site {
-            siteMetadata {
-                title
-            }
-        }
-        allMarkdownRemark(limit: 2000) {
-            group(field: {frontmatter: {tag: SELECT}}) {
-                fieldValue
-                totalCount
-            }
-        }
+  query {
+    site {
+      siteMetadata {
+        title
+      }
     }
-`
+    allMarkdownRemark(limit: 2000) {
+      group(field: { frontmatter: { tag: SELECT } }) {
+        fieldValue
+        totalCount
+      }
+    }
+  }
+`;
 
 export const Head = () => (
-  <Seo title={"An index of tags used on this site"} description={"An indexed view of tags used on this site, with counts"}/>
-)
+  <Seo
+    title={"An index of tags used on this site"}
+    description={"An indexed view of tags used on this site, with counts"}
+  />
+);

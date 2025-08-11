@@ -8,7 +8,9 @@ import {
   faYoutube,
 
 } from '@fortawesome/free-brands-svg-icons';
+
 import SketchfabIcon from "../../images/sketchfab-logo-white.svg";
+
 const Footer = () => {
   return (
     <>
@@ -33,7 +35,13 @@ const Footer = () => {
                     <a href="https://www.youtube.com/@micropasts3076/" className="text-white me-4"
                        aria-label="Our YouTube profile"><FontAwesomeIcon icon={faYoutube} size="2x" className="m-2" /></a>
                     <a href="https://sketchfab.com/micropasts" className="text-white"
-                       aria-label="My Sketchfab account profile"><SketchfabIcon className="fa-2x m-2 svg-inline--fa" style={{ height:32, width: 32 }}/></a>
+                       aria-label="My Sketchfab account profile"><img 
+                src={SketchfabIcon}
+                className="fa-2x m-2 svg-inline--fa" 
+                style={{ height: 32, width: 32 }}
+                alt="Sketchfab"
+                aria-hidden="true"
+            /></a>
                   </Col>
                 </Row>
               </Container>
