@@ -52,7 +52,7 @@
     "word-wrap": "^1.2.5"
   },
   "devDependencies": {
-    "axios": ">=1.11.0",
+    "axios": ">=1.12.1",
     "nanoid": "^5.1.5",
     "prettier": "^3.6.2"
   },
